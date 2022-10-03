@@ -4,9 +4,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Most importantly, the dependencies;
 
-### npm install
+### `npm install`
 
-In order to get the node_modules and any other dependencies involved, you can also paste if you have the files already
+In order to get the node_modules and any other dependencies involved, you can also paste if you have the files already and check the package.json for any other one you're missing.
 
 ## Available Scripts
 
